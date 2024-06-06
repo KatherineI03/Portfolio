@@ -1,5 +1,9 @@
 # **Portfolio - Katherine Ince**
 
+## [How does a bike share achieve rapid success?](https://public.tableau.com/views/Game_Analysis_17114165189500/DashboardTopconsoleswiththehighestsalesbyregion?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+- This analysis is useful for technology and entertainment companies, video game retailers, developers, investors, gamers, strategy consultants, and data analysis educators/students. It helps understand sales trends, optimize inventories, make development and strategic decisions, invest informedly, choose the right gaming platform, and learn about data visualization in the video game industry. The analysis was conducted using Tableau, a powerful data visualization tool that facilitates the understanding and analysis of large volumes of information [...more](https://public.tableau.com/views/Game_Analysis_17114165189500/DashboardTopconsoleswiththehighestsalesbyregion?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
 ## [How does a bike share achieve rapid success?](https://katherinei03.github.io/Navigating-Success-in-Bike-Share/)
 This case study revolves around Cyclistic, a fictional bike-share company, whose goal is to maximize annual memberships, a key factor for the company's future success. The marketing director believes in converting casual riders into annual members and has an interest in understanding the differences in how annual members and casual riders use Cyclistic bikes. The analysis involves exploring historical bike trip data to uncover insights that will inform a new marketing strategy.
 The comprehensive data analysis process involves querying and processing data using Google BigQuery, ensuring privacy and security throughout the process [...more](https://katherinei03.github.io/Navigating-Success-in-Bike-Share/)
